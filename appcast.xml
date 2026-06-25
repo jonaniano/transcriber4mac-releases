@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Transcriber4mac Updates</title>
+    <link>https://github.com/jonaniano/transcriber4mac-releases</link>
+    <description>Updates for Transcriber4mac.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Thu, 25 Jun 2026 00:15:55 -0700</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/jonaniano/transcriber4mac-releases/releases/download/v0.1.0/Transcriber4mac-0.1.0.dmg"
+        sparkle:version="100"
+        sparkle:shortVersionString="0.1.0"
+        sparkle:edSignature="a5LRgHHv3bCWuxroR4zmPRaybT1kFGsnr54+iHT7fHSd/7SjUaMhK5IKvdEfs2bQ3SnFPI/3VDUi8LGi0s2kBw==" length="68183318"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
